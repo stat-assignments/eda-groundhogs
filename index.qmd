@@ -70,9 +70,13 @@ I mapped ... to x and ... to y because...
 The textbook spent lots of time showing you how to create different types of graphics, but I spent a lot less time showing you all of the different ways you could customize graphics in any plotting library. In this problem, I want you to create the *ugliest* graph you can, and then **explain why**, exactly, you made the decisions you did, and which principles of good graphics you've intentionally violated. 
 
 Ugliness is subjective, so the goal here is for you to explore the different ways you can customize the finer details of a plot. 
+You should be able to explain why the plot is poorly constructed using the principles of good graphics **in the textbook** (e.g. simple aesthetic choices aren't sufficient - strive instead for something that is incomprehensible due to how graphics are perceived by the brain).
+
 Make sure your finished masterpiece has appropriate axis labels and a title (after all, even ugly plots need to be correctly labeled!). 
 You are free to add additional variables and layers, modify the aesthetics used, and leverage other packages. 
 [If you need inspiration, look here.](https://www.allisonhorst.com/post/do-your-worst/)
+
+[As of ggplot2 3.5.0, you have even more options to make your chart illegible!](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0/) (Note, these will likely not transfer to python/plotnine, because of differences in the underlying plotting libraries).
 
 
 Use the groundhog data to create the ugliest chart you possibly can, by violating as many guidelines for the creation of good graphics as possible. 
