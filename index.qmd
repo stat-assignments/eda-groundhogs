@@ -1,9 +1,11 @@
 ---
-title: "Homework 5: Graphics"
+title: "Homework: Graphics"
+execute:
+  error: true
 author: "Your Name"
-date: "Due: March 3, 2023"
 output: html_document
 ---
+
 
 ## Data Exploration
 
