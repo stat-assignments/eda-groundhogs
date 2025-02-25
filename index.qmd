@@ -76,7 +76,7 @@ You should be able to explain why the plot is poorly constructed using the princ
 
 Make sure your finished masterpiece has appropriate axis labels and a title (after all, even ugly plots need to be correctly labeled!). 
 You are free to add additional variables and layers, modify the aesthetics used, and leverage other packages. 
-[If you need inspiration, look here.](https://www.allisonhorst.com/post/do-your-worst/)
+[If you need inspiration, look here.](https://allisonhorst.github.io/posts/2019-04-28-do-your-worst/)
 
 [As of ggplot2 3.5.0, you have even more options to make your chart illegible!](https://www.tidyverse.org/blog/2024/02/ggplot2-3-5-0/) (Note, these will likely not transfer to python/plotnine, because of differences in the underlying plotting libraries).
 
